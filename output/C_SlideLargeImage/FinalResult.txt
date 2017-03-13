@@ -1,0 +1,10 @@
+** Graphics info for pid 30158 [com.miui.gallery] **
+
+Stats since: 64158349349227ns
+Total frames rendered: 1371
+Janky frames: 68 (4.96%)
+90th percentile: 9ms
+95th percentile: 16ms
+99th percentile: 48ms
+Number Missed Vsync: 14
+Number High input latency: 9

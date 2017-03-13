@@ -1,0 +1,10 @@
+** Graphics info for pid 11158 [com.miui.gallery] **
+
+Stats since: 96464590617326ns
+Total frames rendered: 3584
+Janky frames: 364 (10.16%)
+90th percentile: 16ms
+95th percentile: 23ms
+99th percentile: 40ms
+Number Missed Vsync: 47
+Number High input latency: 11

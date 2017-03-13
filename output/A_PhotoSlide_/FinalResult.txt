@@ -1,0 +1,10 @@
+** Graphics info for pid 24271 [com.miui.gallery] **
+
+Stats since: 63871457015586ns
+Total frames rendered: 3511
+Janky frames: 334 (9.51%)
+90th percentile: 16ms
+95th percentile: 23ms
+99th percentile: 38ms
+Number Missed Vsync: 50
+Number High input latency: 13
